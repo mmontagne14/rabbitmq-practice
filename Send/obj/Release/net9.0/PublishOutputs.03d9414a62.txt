@@ -1,0 +1,7 @@
+D:\Repositories\Learning\RabbitMQ\ReceiveLogsTopic\publish\Send.exe
+D:\Repositories\Learning\RabbitMQ\ReceiveLogsTopic\publish\Send.dll
+D:\Repositories\Learning\RabbitMQ\ReceiveLogsTopic\publish\Send.deps.json
+D:\Repositories\Learning\RabbitMQ\ReceiveLogsTopic\publish\Send.runtimeconfig.json
+D:\Repositories\Learning\RabbitMQ\ReceiveLogsTopic\publish\Send.pdb
+D:\Repositories\Learning\RabbitMQ\ReceiveLogsTopic\publish\RabbitMQ.Client.dll
+D:\Repositories\Learning\RabbitMQ\ReceiveLogsTopic\publish\System.Threading.RateLimiting.dll
